@@ -1,0 +1,59 @@
+.landing-page, .landing-page * { box-sizing: border-box; }.landing-page {background: #ffffff; width: 1440px; height: 1480px; position: relative;}
+ .footer {position: absolute; inset: 0;}
+ .bg {background: #fafafa; width: 1440px; height: 435px; position: absolute; left: 0px;top: 1045px;}
+ .group-4 {width: 259px; height: 264px; position: static;}
+ .address {color: #101010; text-align: center; font: 700 18px 'Lato', sans-serif; position: absolute; left: 166px;top: 1130px;}
+ .pipang-ltd-griva-digeni-81-83-jacovides-tower-1st-floor-1090-picosia-usa {color: #101010; text-align: left; font: 400 12px/150% 'Lato', sans-serif; position: absolute; left: 166px;top: 1185px; width: 254px;}
+ .copyright-2018-cloud-budget {color: #101010; text-align: left; font: 400 12px 'Lato', sans-serif; position: absolute; left: 161px;top: 1380px;}
+ .group-6 {width: 122px; height: 128px; position: static;}
+ .get-in-touch {color: #101010; text-align: center; font: 700 18px 'Lato', sans-serif; position: absolute; left: 734px;top: 1130px;}
+ ._1-844-721-7120 {color: #121212; text-align: left; font: 400 12px 'Lato', sans-serif; position: absolute; left: 734px;top: 1210px;}
+ .info-cloudbudget-com {color: #101010; text-align: left; font: 400 12px 'Lato', sans-serif; position: absolute; left: 734px;top: 1185px;}
+ .social {width: 66px; height: 14px; position: absolute; left: 734px;top: 1244px;}
+ .feather-facebook {width: 14px; height: 14px; position: absolute; left: 0px;top: 0px; overflow: hidden;}
+ .group {position: absolute; left: 4.08px;top: 1.17px; overflow: visible;}
+ .feather-linkedin {width: 14px; height: 14px; position: absolute; left: 26px;top: 0px; overflow: hidden;}
+ .group2 {position: absolute; left: 1.17px;top: 1.17px; overflow: visible;}
+ .feather-twitter {width: 14px; height: 14px; position: absolute; left: 52px;top: 0px; overflow: hidden;}
+ .group3 {position: absolute; left: 0.58px;top: 1.74px; overflow: visible;}
+ .group-7 {width: 96px; height: 22px; position: static;}
+ .we-support {color: #101010; text-align: left; font: 700 18px 'Lato', sans-serif; position: absolute; left: 1022px;top: 1130px;}
+ .group-5 {width: 254px; height: 164px; position: static;}
+ .services {color: #101010; text-align: left; font: 700 18px 'Lato', sans-serif; position: absolute; left: 450px;top: 1130px;}
+ .overview-features-technology-terms-conditions-privecy {color: #000000; text-align: left; font: 400 12px/160% 'Lato', sans-serif; position: absolute; left: 450px;top: 1180px; width: 254px;}
+ .secure-p-1-1 {width: 216px; height: 31px; position: absolute; left: 1028px;top: 1185px;}
+ .app-download-section {position: absolute; inset: 0;}
+ .bg2 {background: #ed4c5c; width: 1440px; height: 500px; position: absolute; left: 0px;top: 0px;}
+ .left-text {width: 445px; height: 195px; position: static;}
+ .stay-focused-on-saving-money {color: #ffffff; text-align: left; font: 600 36px 'Lato', sans-serif; position: absolute; left: 165px;top: 122px; width: 445px; height: 107px;}
+ .it-is-important-to-stay-focused-on-saving-money-in-any-way-you-can-we-help-you-monitor-your-spending-habits-so-you-can-easily-spot-and-cut-any-unnecessary-expenses-simply-join-today-to-get-started {color: #ffffff; text-align: justified; font: 400 14px/140% 'Lato', sans-serif; position: absolute; left: 165px;top: 253px; width: 445px; height: 64px;}
+ .slider {width: 533px; height: 311px; position: static;}
+ .video-bg {background: linear-gradient(to left, #c4c4c4, #c4c4c4); border-radius: 15px; opacity: 0.5; width: 383px; height: 267px; position: absolute; left: 841px;top: 116px;}
+ .video-bg2 {background: linear-gradient(to left, #c4c4c4, #c4c4c4); border-radius: 15px; opacity: 0.5; width: 383px; height: 267px; position: absolute; left: 691px;top: 116px;}
+ .video-bg3 {background: linear-gradient(to left, #c4c4c4, #c4c4c4); border-radius: 15px; width: 445px; height: 311px; position: absolute; left: 735px;top: 94px;}
+ .app-download-link {width: 134px; height: 32px; position: absolute; left: 163px;top: 357px;}
+ .ion-logo-google-playstore {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .ion-logo-apple-appstore {position: absolute; left: 55px;top: 0px; overflow: visible;}
+ .simple-icons-windows {position: absolute; left: 110px;top: 4px; overflow: visible;}
+ .contact-us {position: absolute; inset: 0;}
+ .bg3 {background: #ffffff; width: 1440px; height: 500px; position: absolute; left: 0px;top: 500px;}
+ .left-text2 {width: 445px; height: 160px; position: static;}
+ .contact {color: #000000; text-align: left; font: 600 36px 'Lato', sans-serif; position: absolute; left: 176px;top: 617px; width: 445px; height: 107px;}
+ .questions-or-concerns-just-fill-out-the-form-below-and-our-support-team-will-get-back-to-you-within-24-hours {color: #000000; text-align: justified; font: 400 14px/140% 'Lato', sans-serif; position: absolute; left: 176px;top: 713px; width: 434px; height: 64px;}
+ .right-field {width: 540px; height: 305px; position: static;}
+ .first-name {width: 255px; height: 60px; position: static;}
+ .rectangle-2 {border-radius: 6px; border-style: solid; border-color: var(--gray-1, #333333); border-width: 1px; width: 255px; height: 60px; position: absolute; left: 735px;top: 617px;}
+ .first-name2 {color: rgba(19, 39, 67, 0.50); text-align: left; font: 400 16px 'Lato', sans-serif; position: absolute; left: 766px;top: 638px;}
+ .submit-buttons {width: 160px; height: 50px; position: static;}
+ .rectangle-22 {background: #ed4c5c; border-radius: 6px; border-style: solid; border-color: #ed4c5c; border-width: 1.5px; width: 160px; height: 50px; position: absolute; left: 735px;top: 872px;}
+ .submit-now {color: #ffffff; text-align: left; font: 400 14px 'Lato', sans-serif; text-transform: uppercase; position: absolute; left: 769px;top: 889px;}
+ .last-name {width: 255px; height: 60px; position: static;}
+ .rectangle-23 {border-radius: 6px; border-style: solid; border-color: var(--gray-1, #333333); border-width: 1px; width: 255px; height: 60px; position: absolute; left: 1020px;top: 617px;}
+ .last-name2 {color: rgba(19, 39, 67, 0.50); text-align: left; font: 400 16px 'Lato', sans-serif; position: absolute; left: 1051px;top: 638px;}
+ .phone-number {width: 540px; height: 60px; position: static;}
+ .rectangle-24 {border-radius: 6px; border-style: solid; border-color: var(--gray-1, #333333); border-width: 1px; width: 540px; height: 60px; position: absolute; left: 735px;top: 701px;}
+ .phone-number2 {color: rgba(19, 39, 67, 0.50); text-align: left; font: 400 16px 'Lato', sans-serif; position: absolute; left: 766px;top: 722px;}
+ .select-service {width: 540px; height: 60px; position: static;}
+ .rectangle-25 {border-radius: 6px; border-style: solid; border-color: var(--gray-1, #333333); border-width: 1px; width: 540px; height: 60px; position: absolute; left: 735px;top: 785px;}
+ .select-service2 {color: rgba(19, 39, 67, 0.50); text-align: left; font: 400 16px 'Lato', sans-serif; position: absolute; left: 766px;top: 806px;}
+ .chevron-down-e-70-d {color: rgba(19, 39, 67, 0.50); text-align: left; font: 400 14px 'Segoe MDL2 Assets', sans-serif; position: absolute; left: 1235px;top: 808px;}
